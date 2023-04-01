@@ -2,7 +2,7 @@
 
 var card = CreditCard.Platinium;
 
-var discount = card switch 
+var discount = card switch
 {
     CreditCard.Standard => 0.1,
     CreditCard.Premium => 0.2,
