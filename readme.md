@@ -1,5 +1,5 @@
 ## Smart Enum
-Milan's video description is as below
+Milan's video description is as follows
 `
 Enums are a great way to improve readability in your code. But enums in C# have a minor problem - you can't add behavior to enum elements. You can only work with enum values. In this, I will show you how you can create a custom smart enum implementation that can contain behavior.
 `
