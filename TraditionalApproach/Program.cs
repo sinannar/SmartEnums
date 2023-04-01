@@ -7,6 +7,7 @@ var discount = card switch
     CreditCard.Standard => 0.1,
     CreditCard.Premium => 0.2,
     CreditCard.Platinium => 0.3,
+    _ => 0.0
 };
 
 Console.WriteLine($"Discount for {card} is {discount:P}");
